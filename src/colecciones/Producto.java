@@ -58,15 +58,17 @@ public class Producto {
         System.out.println(this);
     }
 
+
     @Override
     public String toString() {
         return "Producto{" +
-                "id='" + id + ''' +
-                ", nombre='" + nombre + ''' +
+                "id='" + id + '\'' +
+                ", nombre='" + nombre + '\'' +
                 ", precio=" + precio +
                 ", cantidad=" + cantidad +
                 ", categoria=" + categoria +
                 " (" + categoria.getDescripcion() + ")" +
                 '}';
     }
+
 }
