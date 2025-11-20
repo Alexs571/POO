@@ -1,0 +1,1 @@
+package uml; public class GeneradorQR{ public void generar(String valor, Usuario usuario){} public String toString(){return "GeneradorQR";} }

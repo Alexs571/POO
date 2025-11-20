@@ -1,0 +1,1 @@
+package uml; public class Reproductor{ public void reproducir(Cancion cancion){} public String toString(){return "Reproductor";} }

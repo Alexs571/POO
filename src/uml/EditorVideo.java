@@ -1,0 +1,1 @@
+package uml; public class EditorVideo{ public void exportar(String formato, Proyecto proyecto){} public String toString(){return "EditorVideo";} }
